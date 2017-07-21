@@ -1,1 +1,1 @@
-# Foo service
+# Bar service

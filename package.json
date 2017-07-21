@@ -1,5 +1,5 @@
 {
-  "name": "foo-service",
+  "name": "bar-service",
   "version": "1.0.0",
   "description": "",
   "main": "src/app.js",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IvanAlegre/foo-service.git"
+    "url": "git+https://github.com/IvanAlegre/bar-service.git"
   },
   "author": "Seedtag",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IvanAlegre/foo-service/issues"
+    "url": "https://github.com/IvanAlegre/bar-service/issues"
   },
-  "homepage": "https://github.com/IvanAlegre/foo-service#readme",
+  "homepage": "https://github.com/IvanAlegre/bar-service#readme",
   "devDependencies": {
     "eslint": "^2.13.1",
     "eslint-config-airbnb": "^9.0.1",

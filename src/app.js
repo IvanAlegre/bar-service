@@ -1,7 +1,7 @@
 const express = require('express');
 const app = express();
 
-console.log(`Starting foo-service in environment ${process.env.NODE_ENV}`);
+console.log(`Starting bar-service in environment ${process.env.NODE_ENV}`);
 
 app.enable('trust proxy');
 
